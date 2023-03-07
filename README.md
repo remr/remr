@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Hi my name is [Rogelio]  👋
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> Hi my name is [Rogelio Martinez Ramirez]  👋
  
 ## 🛠  Technologies and tools
 ![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
